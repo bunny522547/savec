@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Form Post Demo</title>
+<style type="text/css">
+.cd {
+	font-size: xx-large;
+	font-weight: bold;
+}
+body {
+	background-color: #FFF;
+	background-image: url(Untitled0.png);
+	font-size: 24px;
+	font-family: "Comic Sans MS", cursive;
+}
+.t {
+	font-size: x-large;
+}
+.o {
+}
+.i {
+	font-size: 18px;
+}
+.y {
+	font-size: 18px;
+}
+.y {
+	color: #000;
+}
+.y {
+	font-size: 18px;
+}
+</style>
+
+</head>
+    <body tracingsrc="6.png" tracingopacity="20">
+  
+      <center>
+      <span class="cd">Reduce costs Save the materials<br />
+      (ลดต้นทุน การใช้วัสดุ)<br>
+</span><span class="y">- กรุณากรอกค่าปริมาตรในช่องที่กำหนด -</span><br /></center>
+    <center><form method="post" action="show.php">
+      <label for="prefix"></label>
+    ปริมาตร: 
+    <input type="text" name="name_txt" size="22" />
+    <span class="i"> <span class="y">ลูกบาศก์หน่วย</span></span><br />
+    <input type="submit" value="คำนวณ" />
+    <input name="reset_bt" value="ยกเลิก" type="reset" />
+    </form>
+    <p>คู่มือการใช้งาน :  <a href="https://drive.google.com/drive/my-drive">https://1th.me/n2Eq5</a><br>
+    </p>
+    <tr>
+</body>
+</html>
